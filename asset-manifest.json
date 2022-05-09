@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/netcomithris/static/css/main.073c9b0a.css",
-    "main.js": "/netcomithris/static/js/main.0ab72fd7.js",
-    "static/js/787.bb5cb66f.chunk.js": "/netcomithris/static/js/787.bb5cb66f.chunk.js",
-    "static/media/logo.svg": "/netcomithris/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/netcomithris/index.html",
-    "main.073c9b0a.css.map": "/netcomithris/static/css/main.073c9b0a.css.map",
-    "main.0ab72fd7.js.map": "/netcomithris/static/js/main.0ab72fd7.js.map",
-    "787.bb5cb66f.chunk.js.map": "/netcomithris/static/js/787.bb5cb66f.chunk.js.map"
+    "main.css": "/my-first-project/static/css/main.073c9b0a.css",
+    "main.js": "/my-first-project/static/js/main.b9fb1ea3.js",
+    "static/js/787.bb5cb66f.chunk.js": "/my-first-project/static/js/787.bb5cb66f.chunk.js",
+    "static/media/logo.svg": "/my-first-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-first-project/index.html",
+    "main.073c9b0a.css.map": "/my-first-project/static/css/main.073c9b0a.css.map",
+    "main.b9fb1ea3.js.map": "/my-first-project/static/js/main.b9fb1ea3.js.map",
+    "787.bb5cb66f.chunk.js.map": "/my-first-project/static/js/787.bb5cb66f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0ab72fd7.js"
+    "static/js/main.b9fb1ea3.js"
   ]
 }
